@@ -1,0 +1,47 @@
+[
+  {
+    "model": "juniorapp.Junior",
+    "pk": 1,
+    "fields": {
+      "user_id" : 1,
+      "name" : "Jung-Yoon",
+      "profile_img" : "https://picsum.photos/175/175"
+    }
+  },
+  {
+    "model": "juniorapp.Junior",
+    "pk": 2,
+    "fields": {
+      "user_id" : 2,
+      "name" : "JuChan",
+      "profile_img" : "https://picsum.photos/175/175"
+    }
+  },
+  {
+    "model": "juniorapp.Junior",
+    "pk": 3,
+    "fields": {
+      "user_id" : 3,
+      "name" : "Jouny",
+      "profile_img" : "https://picsum.photos/175/175"
+    }
+  },
+  {
+    "model": "juniorapp.Junior",
+    "pk": 4,
+    "fields": {
+      "user_id" : 4,
+      "name" : "Min Gook",
+      "profile_img" : "https://picsum.photos/175/175"
+    }
+  },
+  {
+    "model": "juniorapp.Junior",
+    "pk": 5,
+    "fields": {
+      "user_id" : 5,
+      "name" : "Kevin",
+      "profile_img" : "https://picsum.photos/175/175"
+    }
+  }
+]

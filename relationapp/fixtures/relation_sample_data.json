@@ -1,0 +1,74 @@
+[
+  {
+    "model": "relationapp.Relation",
+    "pk": 1,
+    "fields": {
+      "senior_id" : "1",
+      "junior_id" : "2",
+      "relation" : "Son"
+    }
+  },
+  {
+    "model": "relationapp.Relation",
+    "pk": 2,
+    "fields": {
+      "senior_id" : "1",
+      "junior_id" : "3",
+      "relation" : "Grand Son"
+    }
+  },
+  {
+    "model": "relationapp.Relation",
+    "pk": 3,
+    "fields": {
+      "senior_id" : "1",
+      "junior_id" : "4",
+      "relation" : "Daughter"
+    }
+  },
+  {
+    "model": "relationapp.Relation",
+    "pk": 4,
+    "fields": {
+      "senior_id" : "1",
+      "junior_id" : "5",
+      "relation" : "Grand Daughter"
+    }
+  },
+  {
+    "model": "relationapp.Relation",
+    "pk": 5,
+    "fields": {
+      "senior_id" : "2",
+      "junior_id" : "1",
+      "relation" : "Grand Daughter"
+    }
+  },
+  {
+    "model": "relationapp.Relation",
+    "pk": 6,
+    "fields": {
+      "senior_id" : "3",
+      "junior_id" : "1",
+      "relation" : "Daughter"
+    }
+  },
+  {
+    "model": "relationapp.Relation",
+    "pk": 7,
+    "fields": {
+      "senior_id" : "3",
+      "junior_id" : "4",
+      "relation" : "Son"
+    }
+  },
+  {
+    "model": "relationapp.Relation",
+    "pk": 8,
+    "fields": {
+      "senior_id" : "5",
+      "junior_id" : "1",
+      "relation" : "Daughter"
+    }
+  }
+]

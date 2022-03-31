@@ -1,0 +1,98 @@
+[
+  {
+    "model": "albumapp.Album",
+    "pk": 1,
+    "fields": {
+      "img" : "http://34.64.52.14/media/albums/images/1.png",
+      "voice" : "https://voice1.mp3",
+      "junior_id" : "1",
+      "senior_id" : "1",
+      "created_date" : "2022-03-23",
+      "updated_date" : "2022-03-23"
+    }
+  },
+  {
+    "model": "albumapp.Album",
+    "pk": 2,
+    "fields": {
+      "img" : "http://34.64.52.14/media/albums/images/2.png",
+      "voice" : "",
+      "junior_id" : "2",
+      "senior_id" : "1",
+      "created_date" : "2022-03-24",
+      "updated_date" : "2022-03-24"
+    }
+  },
+  {
+    "model": "albumapp.Album",
+    "pk": 3,
+    "fields": {
+      "img" : "http://34.64.52.14/media/albums/images/3.png",
+      "voice" : "",
+      "junior_id" : "3",
+      "senior_id" : "1",
+      "created_date" : "2022-03-24",
+      "updated_date" : "2022-03-25"
+    }
+  },
+  {
+    "model": "albumapp.Album",
+    "pk": 4,
+    "fields": {
+      "img" : "http://34.64.52.14/media/albums/images/4.png",
+      "voice" : "",
+      "junior_id" : "4",
+      "senior_id" : "1",
+      "created_date" : "2022-03-26",
+      "updated_date" : "2022-03-26"
+    }
+  },
+  {
+    "model": "albumapp.Album",
+    "pk": 5,
+    "fields": {
+      "img" : "http://34.64.52.14/media/albums/images/5.png",
+      "voice" : "https://voice5.mp3",
+      "junior_id" : "1",
+      "senior_id" : "1",
+      "created_date" : "2022-03-27",
+      "updated_date" : "2022-03-27"
+    }
+  },
+  {
+    "model": "albumapp.Album",
+    "pk": 6,
+    "fields": {
+      "img" : "http://34.64.52.14/media/albums/images/6.png",
+      "voice" : "",
+      "junior_id" : "5",
+      "senior_id" : "1",
+      "created_date" : "2022-03-27",
+      "updated_date" : "2022-03-27"
+    }
+  },
+  {
+    "model": "albumapp.Album",
+    "pk": 7,
+    "fields": {
+      "img" : "http://34.64.52.14/media/albums/images/7.png",
+      "voice" : "",
+      "junior_id" : "2",
+      "senior_id" : "1",
+      "created_date" : "2022-03-27",
+      "updated_date" : "2022-03-27"
+    }
+  },
+  {
+    "model": "albumapp.Album",
+    "pk": 8,
+    "fields": {
+      "img" : "http://34.64.52.14/media/albums/images/8.png",
+      "voice" : "",
+      "junior_id" : "1",
+      "senior_id" : "1",
+      "created_date" : "2022-03-27",
+      "updated_date" : "2022-03-27"
+    }
+  }
+]

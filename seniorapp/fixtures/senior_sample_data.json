@@ -1,0 +1,71 @@
+[
+  {
+    "model": "seniorapp.Senior",
+    "pk": 1,
+    "fields": {
+      "user_id" : 6,
+      "name" : "Bae",
+      "profile_img" : "http://34.64.52.14/media/seniors/1/profile_img.png",
+      "age" : "67",
+      "address" : "123, Cheomdangwagi-ro, Buk-gu, Gwangju, Republic of Korea",
+      "phone_number" : "+82 10-1234-1234",
+      "illness" : "Diabetes, Forgetfulness",
+      "remarks" : "Can't walk for long because of her 'Bad Knee'"
+    }
+  },
+  {
+    "model": "seniorapp.Senior",
+    "pk": 2,
+    "fields": {
+      "user_id" : 7,
+      "name" : "Lee",
+      "profile_img" : "https://picsum.photos/175/175",
+      "age" : "83",
+      "address" : "광주광역시 첨단과기로 123 대학기숙사 A동",
+      "phone_number" : "010-1235-1235",
+      "illness" : "거북목, 건망증",
+      "remarks" : "키가 엄청 큼"
+    }
+  },
+  {
+    "model": "seniorapp.Senior",
+    "pk": 3,
+    "fields": {
+      "user_id" : 8,
+      "name" : "Jo",
+      "profile_img" : "https://picsum.photos/175/175",
+      "age" : "98",
+      "address" : "광주광역시 첨단과기로 123 대학기숙사 A동",
+      "phone_number" : "010-1236-1236",
+      "illness" : "고혈압, 당뇨, 거북목",
+      "remarks" : "초콜렛을 좋아함"
+    }
+  },
+  {
+    "model": "seniorapp.Senior",
+    "pk": 4,
+    "fields": {
+      "user_id" : 9,
+      "name" : "Kim",
+      "profile_img" : "https://picsum.photos/175/175",
+      "age" : "55",
+      "address" : "광주광역시 첨단과기로 123 대학기숙사 A동",
+      "phone_number" : "010-1237-1237",
+      "illness" : "고혈압, 거북목",
+      "remarks" : "여자친구 있음 ... (?)"
+    }
+  },
+  {
+    "model": "seniorapp.Senior",
+    "pk": 5,
+    "fields": {
+      "user_id" : 10,
+      "name" : "Ko",
+      "profile_img" : "https://picsum.photos/175/175",
+      "age" : "66",
+      "address" : "광주광역시 첨단과기로 123 대학기숙사 A동",
+      "phone_number" : "010-1238-1238",
+      "illness" : "아토피"
+    }
+  }
+]
